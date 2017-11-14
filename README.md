@@ -1,2 +1,4 @@
 # DiscordBotLearning
-A list of ideas to put into a discord bot to facilitate learning a new Language. 
+Note: This assumes you already know a language or two, making learning other languages easier. I.e Giving you a project to work on.
+
+### Ideas
